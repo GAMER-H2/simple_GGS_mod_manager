@@ -1,5 +1,5 @@
 [package]
-name = "egui_steam_checker"
+name = "simple_GGS_mod_manager"
 version = "0.1.0"
 edition = "2024"
 
